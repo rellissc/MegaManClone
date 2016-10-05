@@ -1,12 +1,30 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaManClone.CSharp.Plugins", "MegaManClone.CSharp.Plugins.csproj", "{D5AA96BB-2C1B-64E2-FF07-68345C91E22F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaManClone.CSharp", "MegaManClone.CSharp.csproj", "{3852AF00-76C4-E557-693E-B807CEDAD99F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaManClone.CSharp.Editor", "MegaManClone.CSharp.Editor.csproj", "{7451F6B4-8089-7C3A-F9E3-9C8C4F9041CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5AA96BB-2C1B-64E2-FF07-68345C91E22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5AA96BB-2C1B-64E2-FF07-68345C91E22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5AA96BB-2C1B-64E2-FF07-68345C91E22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5AA96BB-2C1B-64E2-FF07-68345C91E22F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3852AF00-76C4-E557-693E-B807CEDAD99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3852AF00-76C4-E557-693E-B807CEDAD99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3852AF00-76C4-E557-693E-B807CEDAD99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3852AF00-76C4-E557-693E-B807CEDAD99F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7451F6B4-8089-7C3A-F9E3-9C8C4F9041CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7451F6B4-8089-7C3A-F9E3-9C8C4F9041CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7451F6B4-8089-7C3A-F9E3-9C8C4F9041CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7451F6B4-8089-7C3A-F9E3-9C8C4F9041CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
